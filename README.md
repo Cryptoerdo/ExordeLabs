@@ -116,6 +116,7 @@ screen -XS screenadı quit
 pkill screen
 ```
 * Docker ps ile container id yi görüntüleyemiyorsak
+
 ...
 docker ps -a
 ...
